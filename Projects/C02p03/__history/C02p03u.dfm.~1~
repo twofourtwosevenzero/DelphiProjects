@@ -1,0 +1,64 @@
+object Form10: TForm10
+  Left = 0
+  Top = 0
+  Caption = 'Form10'
+  ClientHeight = 247
+  ClientWidth = 725
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object LabelPrice: TLabel
+    Left = 240
+    Top = 176
+    Width = 185
+    Height = 33
+  end
+  object GroupBoxProduct: TGroupBox
+    Left = 64
+    Top = 40
+    Width = 569
+    Height = 121
+    Caption = 'Product'
+    TabOrder = 0
+    object RadioFlour: TRadioButton
+      Left = 32
+      Top = 56
+      Width = 113
+      Height = 17
+      Caption = 'Flour'
+      TabOrder = 0
+      OnClick = RadioFlourClick
+    end
+    object RadioRice: TRadioButton
+      Left = 160
+      Top = 56
+      Width = 113
+      Height = 17
+      Caption = 'Rice'
+      TabOrder = 1
+      OnClick = RadioRiceClick
+    end
+    object RadioSugar: TRadioButton
+      Left = 296
+      Top = 56
+      Width = 113
+      Height = 17
+      Caption = 'Sugar'
+      TabOrder = 2
+      OnClick = RadioSugarClick
+    end
+    object RadioMealie: TRadioButton
+      Left = 432
+      Top = 56
+      Width = 113
+      Height = 17
+      Caption = 'Mealie Meal'
+      TabOrder = 3
+      OnClick = RadioMealieClick
+    end
+  end
+end

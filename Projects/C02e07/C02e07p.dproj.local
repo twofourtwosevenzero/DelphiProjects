@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/26 15:49:26.000.578,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2025/05/26 16:00:06.000.461,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit9.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e06\C02e06u.dfm</Transaction>
+    <Transaction>2025/05/26 16:00:06.000.461,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit9.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e06\C02e06u.pas</Transaction>
+    <Transaction>2025/05/26 16:00:22.000.137,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e06\C02e06p.dproj</Transaction>
+    <Transaction>2025/05/26 16:14:15.000.581,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e06\C02e06u.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e07\C02e07u.dfm</Transaction>
+    <Transaction>2025/05/26 16:14:15.000.581,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e06\C02e06u.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e07\C02e07u.pas</Transaction>
+    <Transaction>2025/05/26 16:14:34.000.481,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e06\C02e06p.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C02e07\C02e07p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

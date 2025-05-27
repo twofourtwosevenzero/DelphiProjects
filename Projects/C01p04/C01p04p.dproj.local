@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/05/26 13:39:55.000.989,=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/05/26 13:48:29.000.872,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\c01p03\C01p03u.dfm</Transaction>
+    <Transaction>2025/05/26 13:48:29.000.872,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\c01p03\C01p03u.pas</Transaction>
+    <Transaction>2025/05/26 13:48:43.000.572,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\c01p03\C01p03p.dproj</Transaction>
+    <Transaction>2025/05/26 13:51:23.000.471,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\c01p03\C01p03u.pas=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C01p04\C01p04u.pas</Transaction>
+    <Transaction>2025/05/26 13:51:23.000.471,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\c01p03\C01p03u.dfm=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C01p04\C01p04u.dfm</Transaction>
+    <Transaction>2025/05/26 13:52:32.000.877,C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\c01p03\C01p03p.dproj=C:\Users\END-USER\Documents\Embarcadero\Studio\Projects\C01p04\C01p04p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,89 @@
+object GreetingForm: TGreetingForm
+  Left = 0
+  Top = 0
+  Caption = 'Greetings!'
+  ClientHeight = 224
+  ClientWidth = 418
+  Color = clCream
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object lblGreeting: TLabel
+    Left = 192
+    Top = 152
+    Width = 63
+    Height = 15
+    Caption = 'Hello There!'
+    Color = clPurple
+    ParentColor = False
+    Transparent = False
+  end
+  object radNight: TRadioButton
+    Left = 32
+    Top = 32
+    Width = 113
+    Height = 17
+    Caption = 'Midnight - 6am'
+    TabOrder = 0
+    OnClick = radNightClick
+  end
+  object radMorning: TRadioButton
+    Left = 32
+    Top = 72
+    Width = 113
+    Height = 17
+    Caption = '6am - Midday'
+    TabOrder = 1
+    OnClick = radMorningClick
+  end
+  object radAfternoon: TRadioButton
+    Left = 32
+    Top = 112
+    Width = 113
+    Height = 17
+    Caption = 'Midday - 6pm'
+    TabOrder = 2
+    OnClick = radAfternoonClick
+  end
+  object radEvening: TRadioButton
+    Left = 32
+    Top = 152
+    Width = 113
+    Height = 17
+    Caption = '6pm - Midnight'
+    TabOrder = 3
+    OnClick = radEveningClick
+  end
+  object gpbColour: TGroupBox
+    Left = 192
+    Top = 32
+    Width = 193
+    Height = 97
+    Caption = 'Greeting Colour'
+    Color = clCream
+    ParentBackground = False
+    ParentColor = False
+    TabOrder = 4
+    object radYellow: TRadioButton
+      Left = 16
+      Top = 32
+      Width = 113
+      Height = 17
+      Caption = 'Yellow'
+      TabOrder = 0
+      OnClick = radYellowClick
+    end
+    object radRed: TRadioButton
+      Left = 16
+      Top = 64
+      Width = 113
+      Height = 17
+      Caption = 'Red'
+      TabOrder = 1
+      OnClick = radRedClick
+    end
+  end
+end

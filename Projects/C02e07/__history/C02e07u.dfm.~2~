@@ -1,0 +1,93 @@
+object Form9: TForm9
+  Left = 0
+  Top = 0
+  Caption = 'Colour Demo'
+  ClientHeight = 288
+  ClientWidth = 403
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object bmbClose: TBitBtn
+    Left = 24
+    Top = 208
+    Width = 353
+    Height = 65
+    Kind = bkClose
+    NumGlyphs = 2
+    TabOrder = 0
+  end
+  object frmColourDemo: TGroupBox
+    Left = 24
+    Top = 24
+    Width = 353
+    Height = 153
+    Caption = 'Form Colour'
+    TabOrder = 1
+    object radBlue: TRadioButton
+      Left = 50
+      Top = 40
+      Width = 113
+      Height = 17
+      Caption = '&Blue'
+      TabOrder = 0
+      OnClick = radBlueClick
+    end
+    object radFuchsia: TRadioButton
+      Left = 50
+      Top = 70
+      Width = 113
+      Height = 17
+      Caption = '&Fuchsia'
+      TabOrder = 1
+      OnClick = radFuchsiaClick
+    end
+    object radGreen: TRadioButton
+      Left = 50
+      Top = 100
+      Width = 113
+      Height = 17
+      Caption = '&Green'
+      TabOrder = 2
+      OnClick = radGreenClick
+    end
+    object radSilver: TRadioButton
+      Left = 200
+      Top = 40
+      Width = 113
+      Height = 17
+      Caption = '&Silver'
+      TabOrder = 3
+      OnClick = radSilverClick
+    end
+    object radRed: TRadioButton
+      Left = 200
+      Top = 70
+      Width = 113
+      Height = 17
+      Caption = '&Red'
+      TabOrder = 4
+      OnClick = radRedClick
+    end
+    object radYellow: TRadioButton
+      Left = 200
+      Top = 100
+      Width = 113
+      Height = 17
+      Caption = '&Yellow'
+      TabOrder = 5
+      OnClick = radYellowClick
+    end
+    object CheckBox1: TCheckBox
+      Left = 536
+      Top = 304
+      Width = 97
+      Height = 17
+      Caption = 'CheckBox1'
+      TabOrder = 6
+    end
+  end
+end
